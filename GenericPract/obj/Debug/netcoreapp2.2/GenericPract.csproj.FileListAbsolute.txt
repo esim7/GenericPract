@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\GenericPract\GenericPract\bin\Debug\netcoreapp2.2\GenericPract.deps.json
+C:\Users\home\source\repos\GenericPract\GenericPract\bin\Debug\netcoreapp2.2\GenericPract.runtimeconfig.json
+C:\Users\home\source\repos\GenericPract\GenericPract\bin\Debug\netcoreapp2.2\GenericPract.runtimeconfig.dev.json
+C:\Users\home\source\repos\GenericPract\GenericPract\bin\Debug\netcoreapp2.2\GenericPract.dll
+C:\Users\home\source\repos\GenericPract\GenericPract\bin\Debug\netcoreapp2.2\GenericPract.pdb
+C:\Users\home\source\repos\GenericPract\GenericPract\obj\Debug\netcoreapp2.2\GenericPract.csprojAssemblyReference.cache
+C:\Users\home\source\repos\GenericPract\GenericPract\obj\Debug\netcoreapp2.2\GenericPract.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\GenericPract\GenericPract\obj\Debug\netcoreapp2.2\GenericPract.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\GenericPract\GenericPract\obj\Debug\netcoreapp2.2\GenericPract.AssemblyInfo.cs
+C:\Users\home\source\repos\GenericPract\GenericPract\obj\Debug\netcoreapp2.2\GenericPract.dll
+C:\Users\home\source\repos\GenericPract\GenericPract\obj\Debug\netcoreapp2.2\GenericPract.pdb
